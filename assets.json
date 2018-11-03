@@ -1,11 +1,12 @@
 {
-  "vendors.js": "/use-events/static/js/vendors.dc442235.js",
-  "app.js": "/use-events/static/js/app.9ad79784.js",
+  "vendors.js": "/use-events/static/js/vendors.7ef187be.js",
+  "app.js": "/use-events/static/js/app.d693bd78.js",
   "docs-intro.js": "/use-events/static/js/docs-intro.9de53930.js",
-  "docs-use-active.js": "/use-events/static/js/docs-use-active.a9c87128.js",
-  "docs-use-focus.js": "/use-events/static/js/docs-use-focus.6dedae54.js",
-  "docs-use-hover.js": "/use-events/static/js/docs-use-hover.c2fb25de.js",
-  "docs-use-touch.js": "/use-events/static/js/docs-use-touch.a551c452.js",
-  "runtime~app.js": "/use-events/static/js/runtime~app.6647645b5cad55cadf24.js",
+  "docs-use-active.js": "/use-events/static/js/docs-use-active.f686a8a4.js",
+  "docs-use-click-outside.js": "/use-events/static/js/docs-use-click-outside.ae95727d.js",
+  "docs-use-focus.js": "/use-events/static/js/docs-use-focus.b4a34fca.js",
+  "docs-use-hover.js": "/use-events/static/js/docs-use-hover.c4ac2d0f.js",
+  "docs-use-touch.js": "/use-events/static/js/docs-use-touch.a5e8dd64.js",
+  "runtime~app.js": "/use-events/static/js/runtime~app.5834f0ff22fc9f1cd5ab.js",
   "index.html": "/use-events/index.html"
 }
