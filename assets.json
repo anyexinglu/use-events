@@ -1,12 +1,12 @@
 {
-  "vendors.js": "/use-events/static/js/vendors.7ef187be.js",
+  "vendors.js": "/use-events/static/js/vendors.a808b1a1.js",
   "app.js": "/use-events/static/js/app.a4fb9192.js",
   "docs-intro.js": "/use-events/static/js/docs-intro.b8c128af.js",
   "docs-use-active.js": "/use-events/static/js/docs-use-active.151ccefe.js",
   "docs-use-click-outside.js": "/use-events/static/js/docs-use-click-outside.cb65449e.js",
   "docs-use-focus.js": "/use-events/static/js/docs-use-focus.77e3ec1f.js",
-  "docs-use-hover.js": "/use-events/static/js/docs-use-hover.c4ac2d0f.js",
+  "docs-use-hover.js": "/use-events/static/js/docs-use-hover.16379c79.js",
   "docs-use-touch.js": "/use-events/static/js/docs-use-touch.066ed67b.js",
-  "runtime~app.js": "/use-events/static/js/runtime~app.0ab22cd148e6234bae4f.js",
+  "runtime~app.js": "/use-events/static/js/runtime~app.931db122f858099e4b90.js",
   "index.html": "/use-events/index.html"
 }
